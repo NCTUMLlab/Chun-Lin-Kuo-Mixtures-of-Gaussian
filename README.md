@@ -20,7 +20,7 @@ To test the ability to infer a multi-modal posterior which helps avoiding the mo
 
  <img src="figures/gan/Iteration_20000.png" width="400/">  <img src="figures/vbgan/Iteration_20000.png" width="400/"> 
 
- <img src="figures/gan/Iteration_30000.png" width="400">  <img src="figures/gan/Iteration_30000.png" width="400"> 
+ <img src="figures/gan/Iteration_30000.png" width="400">  <img src="figures/vbgan/Iteration_30000.png" width="400"> 
                                   	   
 
 
