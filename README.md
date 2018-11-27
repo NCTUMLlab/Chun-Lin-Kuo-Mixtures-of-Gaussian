@@ -15,14 +15,16 @@ To test the ability to infer a multi-modal posterior which helps avoiding the mo
 	- RAM: 20 GB DDR4-2400
 	- GPU: GeForce GTX 980
 
-## Result of sampling
-| <img src="figures/VBGAN_sam.png" width="400"> |
+## Result of Vanilla GAN
+| <img src="figures/gan/Iteration_10000.png" width="400"> |
 | :------------------------------------------------: |
-| VBGAN                                   |
 
-| <img src="figures/VBGAN_wasserstein_sam.png" width="400/"> |
+| <img src="figures/gan/Iteration_20000.png" width="400/"> |
 | :--------------------------------------------------: |
-| VBGAN_w                                           |
+
+| <img src="figures/gan/Iteration_30000.png" width="400"> |
+| :------------------------------------------------: |
+| GAN                                      	   |
 
 ## Test accuracy
 | <img src="figures/4000.png" width="400"> |
