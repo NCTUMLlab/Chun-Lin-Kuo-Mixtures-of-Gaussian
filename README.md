@@ -5,7 +5,11 @@ Bayesian GAN credit to https://github.com/vasiloglou/mltrain-nips-2017/blob/mast
 
 <p align="center">
   <img src="figures/Model_slide.PNG" width="450">
+  <em>VBGAN</em>
+</p>
+<p align="center">
   <img src="figures/Model_slide_w.PNG" width="450">
+  <em>VBGAN with wasserstein metric</em>
 </p>
 
 ## Setting
@@ -17,12 +21,12 @@ Bayesian GAN credit to https://github.com/vasiloglou/mltrain-nips-2017/blob/mast
 	- GPU: GeForce GTX 980
 
 ## Result of Vanilla GAN and VBGAN
-<figure>
+
  <img src="figures/gan/Iteration_10000.png" width="400">  <img src="figures/vbgan/Iteration_10000.png" width="400"> 
  <img src="figures/gan/Iteration_20000.png" width="400/">  <img src="figures/vbgan/Iteration_20000.png" width="400/"> 
  <img src="figures/gan/Iteration_30000.png" width="400">  <img src="figures/vbgan/Iteration_30000.png" width="400"> 
- <figcaption> vanilla GAN (left) and Bayesian GAN (right) </figcaption> 
-<figure>
+ <figcaption> vanilla GAN (left) and our proposed (right) </figcaption> 
+
 
                                   	   
 
