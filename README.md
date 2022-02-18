@@ -3,6 +3,8 @@ To test the ability to infer a multi-modal posterior which helps avoiding the mo
 
 Bayesian GAN credit to https://github.com/vasiloglou/mltrain-nips-2017/blob/master/ben_athiwaratkun/pytorch-bayesgan/Bayesian%20GAN%20in%20PyTorch.ipynb
 
+* Our Model Architecture
+
 <p align="center">
   <img src="figures/Model_slide.PNG" width="450">
   <em>VBGAN</em>
