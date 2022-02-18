@@ -17,11 +17,13 @@ Bayesian GAN credit to https://github.com/vasiloglou/mltrain-nips-2017/blob/mast
 	- GPU: GeForce GTX 980
 
 ## Result of Vanilla GAN and VBGAN
+<figure>
  <img src="figures/gan/Iteration_10000.png" width="400">  <img src="figures/vbgan/Iteration_10000.png" width="400"> 
-
  <img src="figures/gan/Iteration_20000.png" width="400/">  <img src="figures/vbgan/Iteration_20000.png" width="400/"> 
-
  <img src="figures/gan/Iteration_30000.png" width="400">  <img src="figures/vbgan/Iteration_30000.png" width="400"> 
+ <figcaption> vanilla GAN (left) and Bayesian GAN (right) </figcaption> 
+<figure>
+
                                   	   
 
 
